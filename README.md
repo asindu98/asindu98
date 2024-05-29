@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/asindu98/asindu98/6f1d1dbd95b21ef5a27f8be6223ef6fb17f010f7/untitled.svg)]
+![MasterHead](https://raw.githubusercontent.com/asindu98/asindu98/6f1d1dbd95b21ef5a27f8be6223ef6fb17f010f7/untitled.svg)
 <h1 align="center">Hi 👋, I'm Asindu</h1>
 <h3 align="center">Passionate about Network and Tech ✨</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeZlhAXC7X_sP8LDw03ObNr6Vzq0wyl7KH-w&s">
